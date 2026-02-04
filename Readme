@@ -12,9 +12,7 @@ This project is designed for practicing backend API development and logic buildi
 - Write clean and maintainable code
 
 ## Technologies Used
-- **Runtime**: Node.js / Python / [Your Framework]
-- **Framework**: Express.js / Django / [Your Framework]
-- **Database**: MongoDB / PostgreSQL / [Your Database]
-- **Tools**: Postman, Git, VS Code
+- **Runtime**: Node.js / javascript / Expressjs
+
 
 ## Project Structure
